@@ -17,7 +17,6 @@ With multi-line graph on weekly fares, they combined to produce the trending on 
 - Suburban cities have starting price around $700 as of Jan 16. As tge line develop, the fare went up to around $1500 in late February and droped in early March. The fare have an upward growth back to around $1500 as the time reaching the end of April
 - Rural cities have price around $200 at the starting of Jan 16. As the line develop, this fare has the lease floating between $200 and $500 as the end of April.
 ##### Total Fare by City Type
-![weekly_fare](https://github.com/WilliamBHW/PyBer_Analysis/blob/main/analysis/weekly_fares.png)
 ![fare_summary](https://github.com/WilliamBHW/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 <br>
 
