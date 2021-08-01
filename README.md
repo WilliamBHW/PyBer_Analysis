@@ -9,6 +9,7 @@ The purpose of this project is to create a multi-line graph that shows the total
 Based on the ride-sharing-data and PyBer summary data frame, it is clear that urban cities have the most shares of rides and drivers.
 ##### PyBer Summary
 ![ride-share-data](https://github.com/WilliamBHW/PyBer_Analysis/blob/main/analysis/Ride_Data.png)
+![](https://github.com/WilliamBHW/PyBer_Analysis/blob/main/analysis/Fig1.png)
 <br>
 
 With multi-line graph on weekly fares, they combined to produce the trending on fares for each city type as follow:
